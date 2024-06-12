@@ -1,0 +1,8 @@
+scikit-learn
+sklearn-crfsuite
+transformers
+datasets
+pandas
+torch
+accelerate>=0.21.0
+tabulate
